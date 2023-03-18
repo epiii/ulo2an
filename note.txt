@@ -1,0 +1,4 @@
+- export : https://expo.dev/artifacts/eas/vvshvktCETs6UDxBEfC6X5.apk
+
+
+- tutorial(reference) : https://www.youtube.com/watch?v=hXogPCM4FS8
